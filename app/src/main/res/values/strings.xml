@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample FAB Bottom Nav</string>
+    <string name="home">Home</string>
+    <string name="person">Person</string>
+    <string name="settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+</resources>
