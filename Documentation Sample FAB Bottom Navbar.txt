@@ -1,0 +1,17 @@
+To use FAB Bottom Navibar
+1. Make file for menu
+2. Add Floating Action Button and Bottom App Bar, 
+    in Bottom App Bar add Bottom Navigation View
+3. Next to kotlin and implement background to null and item that cant be clikced on FAB
+
+
+To use Expendable FAB
+1. Make FAB then also make file animation for FAB must include fillAfter
+2. Next implement file animation and make function for Extended (animation, visibility, and clickable)
+
+
+To use Custom Shape FAB
+1. Make FAB
+2. In Theme or Style file, create your style like you want and then implement in 
+    parent="Widget.Design.FloatingActionButton"
+3. In FAB call command style and call style parent name for FAB
